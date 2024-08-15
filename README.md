@@ -228,6 +228,10 @@ A problem is added here each day.
 ### [🔰Technical Interview Questions](https://www.interviewbit.com/technical-interview-questions)
 
 The Ultimate Guide to Acing Your Technical Interview(2022): Review these commonly asked technical job interview questions and prepare your answer. 
+
+### [🔰Java Interview Questions](https://boldcoder.blogspot.com/2024/08/java-and-spring-boot-interview.html)
+
+The Ultimate Guide to Ace your Java Interviews: Explore these mostly asked Java and Spring Boot interview questions and prepare for interviews.
 <br />
 
 ## 🏆 Theory Subjects
